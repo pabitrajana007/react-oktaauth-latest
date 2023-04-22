@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pabitra Jana",
+      "username": "Jpabitra007",
+      "email": "pabitranewjana@gmail.com",
+      "phone": 37802223,
+      "company": "Altech Data Sol."
+    },
+    {
+      "id": "2",
+      "name": "Peggy Sonata",
+      "username": "Peggaya",
+      "email": "sonayapeg@gmail.com",
+      "phone": 4402673,
+      "company": "Peggy's Drycleaning"
+    },
+    {
+      "id": "3",
+      "name": "Joseph Maguire",
+      "username": "Joemag",
+      "email": "Jojo1956@gmail.com",
+      "phone": 224423045,
+      "company": "Jojo's Pot"
+    },
+    {
+      "id": "4",
+      "name": "Jon Hanus",
+      "username": "Hanuson",
+      "email": "Joehanus11@gmail.com",
+      "phone": 89354033,
+      "company": "Joe's Funeral Home"
+    },
+    {
+      "id": "5",
+      "name": "Ron Burgundy",
+      "username": "Colorburgundy",
+      "email": "Rongundy@gmail.com",
+      "phone": 23455,
+      "company": "Color Burgundy"
+    },
+    {
+      "id": "6",
+      "name": "Alisha",
+      "username": "alisha001",
+      "email": "alisha123@gmail.com",
+      "phone": "1234567",
+      "company": "altech data sol."
+    }
+  ]
+}
